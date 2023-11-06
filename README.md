@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a> <br />  <br />
   
-  <a href="shaikhivaliev@gmail.com">
+  <a href="mailto:shaikhivaliev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>  <br />  <br />
   
